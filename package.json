@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-sandbox",
+  "version": "1.0.0",
+  "description": "practice bootstrap in node js and host in azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fydefirm/bootstrap-sandbox.git"
+  },
+  "author": "Olugbenga Oguntokun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fydefirm/bootstrap-sandbox/issues"
+  },
+  "homepage": "https://github.com/fydefirm/bootstrap-sandbox#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4"
+  }
+}
